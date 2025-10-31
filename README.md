@@ -1,1 +1,1 @@
-# Task Management API
+# Task Management API\n\nRun with:\n```bash\nmvn spring-boot:run\n```\n
